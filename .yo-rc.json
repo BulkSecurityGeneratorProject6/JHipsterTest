@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "org.hammerle",
+            "nativeLanguage": "de"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "jhipsterTest",
+        "packageName": "org.hammerle",
+        "packageFolder": "org/hammerle",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "YWMxMDEyMDI3NTVhZTQzMjI1N2Q1YzhiMzE5YzY1MjQ3ZGQ3ZjU3NGM1ODA0MGI2OTdmNTczMTZkOGMxMzc3NDliMWQ0OTM4NmI4YTkyZWIzZjNiY2Q2ZDJlYWYzMDBkNDZjZDU2OTcwOWQ5ZGU5MzU0NjA3NGJmZjFkNDEzZDY=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "de",
+        "languages": ["de", "en"]
+    }
+}
