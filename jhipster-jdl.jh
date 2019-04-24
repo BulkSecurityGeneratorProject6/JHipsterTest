@@ -1,0 +1,10 @@
+entity Student {
+	martikelnummer Long
+    nachname String
+    vorname String
+    strasse String
+    hausnummer String
+    postleitzahl Integer
+    ort String
+}
+

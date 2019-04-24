@@ -1,0 +1,27 @@
+{
+    "jhipsterTestApp": {
+        "student": {
+            "home": {
+                "title": "Students",
+                "createLabel": "Student erstellen",
+                "createOrEditLabel": "Student erstellen oder bearbeiten"
+            },
+            "created": "Student erstellt mit ID {{ param }}",
+            "updated": "Student aktualisiert mit ID {{ param }}",
+            "deleted": "Student gelöscht mit ID {{ param }}",
+            "delete": {
+                "question": "Soll Student {{ id }} wirklich dauerhaft gelöscht werden?"
+            },
+            "detail": {
+                "title": "Student"
+            },
+            "martikelnummer": "Martikelnummer",
+            "nachname": "Nachname",
+            "vorname": "Vorname",
+            "strasse": "Strasse",
+            "hausnummer": "Hausnummer",
+            "postleitzahl": "Postleitzahl",
+            "ort": "Ort"
+        }
+    }
+}
